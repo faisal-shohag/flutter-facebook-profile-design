@@ -1,6 +1,6 @@
 # app_3
 
-A new Flutter project.
+<center><img src="https://github.com/faisal-shohag/flutter-facebook-profile-design/blob/master/assets/Facebook%20Profile%20Design.png?raw=true"/></center>
 
 ## Getting Started
 
